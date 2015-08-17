@@ -1,0 +1,17 @@
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\ExcelCosmo.exe.config
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\obj\Debug\ExcelCosmo.csprojResolveAssemblyReference.cache
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\ExcelCosmo.exe
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\ExcelCosmo.pdb
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\EPPlus.dll
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\LinqToExcel.dll
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\log4net.dll
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\Remotion.Data.Linq.dll
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\Remotion.dll
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\Remotion.Interfaces.dll
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\EPPlus.xml
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\LinqToExcel.xml
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\log4net.xml
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\obj\Debug\ExcelCosmo.exe
+D:\ClientProjects\Elance\ExcelCosmo\ExcelCosmo\obj\Debug\ExcelCosmo.pdb
